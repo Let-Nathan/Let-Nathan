@@ -25,10 +25,11 @@ I am trying to improve my self every days as a developer and also spending time 
  <img align="flexbox" src="https://github-readme-stats.vercel.app/api?username=let-nathan&show_icons=true&theme=gotham" width="400">
 
 # And also :
+- :lock: I like solving <a href=https://www.codewars.com/users/Nathan%20L> code wars </a> problems 
 - 👯 I’m looking to collaborate on <strong> new project </strong>
 - 🌱 I’m currently learning <strong> Java </strong> 
 - :mortar_board: I'm about to pass a license as <strong> software engineer </strong>
 - 📫 How to reach me: letournel.nathan@gmail.com
 - 💬 Ask me about anything, if i can help it will be with pleasure 😄
-- ⚡ Most of the time i do climbing when i'm not behind my comp
+- ⚡ Most of the time when i'm not sitting behind a computer, i do climbing.
 
