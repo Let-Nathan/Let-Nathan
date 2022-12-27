@@ -1,8 +1,4 @@
-<p align="center">
-  <strong>
-    Welcome to my github profile 👋
-  </strong>
-</p>
+ ## Welcome to my github profile 👋
 
 <i> I'm <strong> Nathan Letournel </strong> a 28 years old, web developer and apsirnig software engineer from Bordeaux.
 My passion for developement lies with dreaming up ideas and making them come true with elegant interfaces. 
