@@ -15,11 +15,12 @@ I am trying to improve my self every days as a developer and also spending time 
    
   <a href="https://skillicons.dev">
     <p align="center">
-      <img width="500" src="https://skillicons.dev/icons?i=js,php,symfony,java,mysql,html,css,bootstrap,discord,github,git,idea,vscode,xd" />
+      <img width="400" src="https://skillicons.dev/icons?i=js,php,symfony,java,mysql,html,css,bootstrap,discord,github,git,idea,vscode,xd" />
     </p>
   </a> 
  
    
+ <br>
  <br>
  <img align="flexbox" src="https://github-readme-stats.vercel.app/api?username=let-nathan&show_icons=true&theme=gotham" width="400">
 
