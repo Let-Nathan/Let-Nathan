@@ -1,8 +1,8 @@
  ## Welcome to my github profile 👋
 
-<i> I'm <strong> Nathan Letournel </strong> a 28 years old, web developer and apsirnig software engineer from Bordeaux.
-My passion for developement lies with dreaming up ideas and making them come true with elegant interfaces. 
-I am trying to improve myself every days, feeding my brain with new knwoledge, trying new concept and also spending time to read technology news. </i>
+<i> I'm <strong> Nathan Letournel </strong> a 28 years old, <strong> web developer </strong> and apsirnig <strong> software engineer </strong> from Bordeaux.
+My passion for developement lies with dreaming up ideas and making them come true with <strong> elegant interfaces </strong> and well <strong> designed architecture </strong>. 
+ I am trying to <strong> improve myself </strong> every days, feeding my brain with <strong> new knwoledge </strong>, trying <strong> new concept </strong> and also spending time to <strong> read technology news </strong>. </i>
       
  <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="400" /> 
 
