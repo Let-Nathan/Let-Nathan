@@ -17,7 +17,6 @@ My passion for developement lies with dreaming up ideas and making them come tru
  
    
  <br>
- <br>
  <img align="flexbox" src="https://github-readme-stats.vercel.app/api?username=let-nathan&show_icons=true&theme=gotham" width="400">
 
 # And also :
