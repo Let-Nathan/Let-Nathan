@@ -22,13 +22,11 @@ My passion for developement lies with dreaming up ideas and making them come tru
 # And also :
 - :lock: I like solving <a href=https://www.codewars.com/users/Nathan%20L> code wars </a> problems 
 - 👯 I’m looking to collaborate on <strong> new project </strong>
-- 🌱 I’m currently learning <strong> Java </strong> 
-- :mortar_board: I'm about to pass a license as <strong> software engineer </strong>
+- 🌱 I’m currently learning <strong> SpringBoot / JavaScript / Apex </strong> 
+- :mortar_board: I'm about to pass a license as <strong> Application conceptor & devlopper </strong> and just startin Master
 - 💬 Ask me about anything(within reason), if i can help it will be with pleasure 😄
 - ⚡ Most of the time when i'm not sitting behind a computer, i do climbing.
 
 ## 📫 How to reach me: 
 
-- :email: letournel.nathan@gmail.com
 - :link: <a href="https://www.linkedin.com/in/nathan-letournel/">Linkedin</a>
-
