@@ -7,7 +7,7 @@
 </i>
 
 
-  <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="450" height="400" />
+  <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="400" height="400" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="380" height="242">
   
 ## Technology and Tools i use : 
