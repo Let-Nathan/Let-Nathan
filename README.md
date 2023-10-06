@@ -15,7 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
 
 <a href="https://skillicons.dev">
-    <p align="left">
+    <p align="center">
         <img width="400" src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=7"/>
     </p>
 </a> 
