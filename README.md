@@ -7,16 +7,8 @@
 </i>
 
 ## Technology and Tools i use :
-<table style="border:0px solid white; width:"100%";">
-<tr>
-    <td style="border:0px; width:"50%";">
-        <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="450"/>
-    </td>
-    <td style="border:0px; width:"50%";"> 
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="380" height="242">
-    </td>
-</tr>
-</table>
+<img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="450"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="380" height="242">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
 
 <a href="https://skillicons.dev" align="left">
