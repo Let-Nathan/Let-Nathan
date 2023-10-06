@@ -7,12 +7,14 @@
 </i>
 
 ## Technology and Tools i use :
-<table border="0">
+<table style="border:0px solid white; width:"100%";">
 <tr>
-    <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="450"/>
-</tr>
-<tr>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="380" height="242">
+    <td style="border:0px; width:"50%";">
+        <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="450"/>
+    </td>
+    <td style="border:0px; width:"50%";"> 
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="380" height="242">
+    </td>
 </tr>
 </table>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
