@@ -1,25 +1,31 @@
- ## Welcome to my github profile 👋
+# Welcome to my github profile 👋
 
-<i> I'm <strong> Nathan Letournel </strong> a 28 years old, <strong> web developer </strong> and apsirnig <strong> software engineer </strong> from Bordeaux.
-My passion for developement lies with dreaming up ideas and making them come true with <strong> elegant interfaces </strong> and well <strong> designed architecture </strong>. 
- I am trying to <strong> improve myself </strong> every days, feeding my brain with <strong> new knwoledge </strong>, trying <strong> new concept </strong> and also spending time to <strong> read technology news </strong>. </i>
- 
- <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="400" /> 
+<i> 
+    I'm <strong> Nathan Letournel </strong> a 28 years old, <strong> web developer </strong> and apsirnig <strong> software engineer </strong> from Bordeaux.
+    My passion for developement lies with dreaming up ideas and making them come true with <strong> elegant interfaces </strong> and well <strong> designed architecture </strong>. 
+    I am trying to <strong> improve myself </strong> every days, feeding my brain with <strong> new knwoledge </strong>, trying <strong> new concept </strong> and also spending time to <strong> read technology news </strong>. 
+</i>
 
 
-## Technology and tools i use : 
+## Technology and Tools i use : 
    
+  <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="500" height="400" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="380" height="242">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
+  
+
+
   <a href="https://skillicons.dev">
-    <p align="center">
-      <img width="400" src="https://skillicons.dev/icons?i=js,php,symfony,java,mysql,html,css,bootstrap,discord,github,git,idea,vscode,xd" />
+    <p align="left">
+      <img width="400" src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=7" />
     </p>
   </a> 
- 
-   
- <br>
- <img align="flexbox" src="https://github-readme-stats.vercel.app/api?username=let-nathan&show_icons=true&theme=gotham" width="400">
 
-# And also :
+
+   
+
+
+## And also :
 - :lock: I like solving <a href=https://www.codewars.com/users/Nathan%20L> code wars </a> problems 
 - 👯 I’m looking to collaborate on <strong> new project </strong>
 - 🌱 I’m currently learning <strong> SpringBoot / JavaScript / Apex </strong> 
