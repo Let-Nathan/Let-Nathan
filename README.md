@@ -20,8 +20,10 @@
 </p>
 </a> 
 
+<br />
 
 ## And also :
+
 - :lock: I like solving <a href=https://www.codewars.com/users/Nathan%20L> code wars </a> problems 
 - 👯 I’m looking to collaborate on <strong> new project </strong>
 - 🌱 I’m currently learning <strong> SpringBoot / JavaScript / Apex </strong> 
