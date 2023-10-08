@@ -11,12 +11,12 @@
 <img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="470" height="370"/> 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="300" height="200">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
-<p></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="400" >
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="100%"> -->
+
 <a href="https://skillicons.dev">
-<p align="right">
-<img width="350"  src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=8"/>
+<p align="left">
+<img width="400" height="100"  src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=8"/>
 </p>
 </a> 
 
