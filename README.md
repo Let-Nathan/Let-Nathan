@@ -20,8 +20,6 @@
 </p>
 </a> 
 
-<br />
-
 ## And also :
 
 - :lock: I like solving <a href=https://www.codewars.com/users/Nathan%20L> code wars </a> problems 
