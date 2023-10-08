@@ -8,7 +8,7 @@
 
 ## Technology and Tools i use :
 
-<img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="430" height="370"/> 
+<img align="left" src="https://github.com/Let-Nathan/Let-Nathan/blob/main/code.gif" width="420" height="370"/> 
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="400" >
@@ -16,7 +16,7 @@
 
 <a href="https://skillicons.dev">
 <p align="left">
-<img width="400" height="100"  src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=8"/>
+<img width="400" height="200"  src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=8"/>
 </p>
 </a> 
 
