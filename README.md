@@ -12,7 +12,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="300" height="200">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="380">
 
 <a href="https://skillicons.dev">
 <p align="left">
