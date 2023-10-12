@@ -25,7 +25,7 @@
 - :lock: I like solving <a href=https://www.codewars.com/users/Nathan%20L> code wars </a> problems 
 - 👯 I’m looking to collaborate on <strong> new project </strong>
 - 🌱 I’m currently learning <strong> SpringBoot / JavaScript / Apex </strong> 
-- :mortar_board: I'm about to pass a license as <strong> Application conceptor & devlopper </strong> and just startin Master
+- :mortar_board: I'm about to pass a license as <strong> Application conceptor & devlopper </strong> and just startin <strong>Master degrees </strong>
 - 💬 Ask me about anything(within reason), if i can help it will be with pleasure 😄
 - ⚡ Most of the time when i'm not sitting behind a computer, i do climbing.
 
