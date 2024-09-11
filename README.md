@@ -13,10 +13,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Let-Nathan&layout=donut" width="400" >
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Let-Nathan&show_icons=true&theme=gotham" width="100%"> -->
+<p align="center">
 
 <a href="https://skillicons.dev">
-<p align="center">
-<img width="320" height="180"  src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=8"/>
+<img width="350" height="180"  src="https://skillicons.dev/icons?i=java,php,js,mysql,html,css,bootstrap,spring,symfony,discord,github,git,idea,vscode,xd&perline=8"/>
 </p>
 </a> 
 
